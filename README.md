@@ -1,4 +1,4 @@
-# Pankaj Yadav's Personal Repository
+# Hii 👋 This is Pankaj Yadav
 
 ## Introduction
 Welcome to my personal repository! I'm Pankaj Yadav, a sophomore at Sitare University currently pursuing my BTech in Computer Science and Engineering. This repository serves as a showcase of my technical skills and projects in various domains.
@@ -23,9 +23,9 @@ Here are some of my technical skills:
     - Data Handling & Cleaning 🧹
 
 ## Projects
-I'll be sharing various projects related to the skills mentioned above. Stay tuned for updates!
+I will be adding my projects and Assignments regularly to my account.
 
 ## Contact
-Feel free to reach out to me via email at [pankaj.yadav@example.com](mailto:pankaj.yadav@example.com) for any inquiries or collaboration opportunities.
+Feel free to reach out to me via email at [py9621008569@gmail.com](mailto:pankaj.yadav@example.com) for any inquiries or collaboration opportunities.
 
 Thank you for visiting my repository! 🚀
