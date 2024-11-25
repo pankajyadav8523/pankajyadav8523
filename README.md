@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Pankaj Yadav
 
 ## 👨‍💻 About Me
-I'm Pankaj Yadav, a **sophomore at Sitare University**, pursuing a **B.Tech in Computer Science and Engineering** with a passion for solving real-world problems through **technology and innovation**. My technical expertise spans across cutting-edge technologies, and I thrive on building impactful solutions.
+I'm Pankaj Yadav, a **junior at Sitare University**, pursuing a **B.Tech in Computer Science and Engineering** with a passion for solving real-world problems through **technology and innovation**. My technical expertise spans across cutting-edge technologies, and I thrive on building impactful solutions.
 
 ---
 
