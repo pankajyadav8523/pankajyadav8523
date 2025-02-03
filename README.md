@@ -65,8 +65,8 @@ I aim to excel in the fields of:
 ## 📩 Contact Me
 Feel free to reach out for collaborations, mentorship, or exciting opportunities:
 - **Email**: [py9621008569@gmail.com](mailto:py9621008569@gmail.com)
-- **GitHub**: [github.com/your-username](https://github.com/your-username)  
-- **LinkedIn**: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
+- **GitHub**: (https://github.com/pankajyadav8523/)
+- **LinkedIn**:(https://www.linkedin.com/in/pankaj-yadav-563101250/)
 
 ---
 
