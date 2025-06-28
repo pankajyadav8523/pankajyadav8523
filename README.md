@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Pankaj Yadav
 
 ## 👨‍💻 About Me
-I'm Pankaj Yadav, a **junior at Sitare University**, pursuing a **B.Tech in Computer Science and Engineering** with a passion for solving real-world problems through **technology and innovation**. My technical expertise spans across cutting-edge technologies, and I thrive on building impactful solutions.
+I'm Pankaj Yadav, a **senior at Sitare University**, pursuing a **B.Tech in Computer Science and Engineering** with a passion for solving real-world problems through **technology and innovation**. My technical expertise spans across cutting-edge technologies, and I thrive on building impactful solutions.
 
 ---
 
@@ -13,7 +13,7 @@ I'm Pankaj Yadav, a **junior at Sitare University**, pursuing a **B.Tech in Comp
 ### **Artificial Intelligence & Machine Learning**
 - Expertise in **LLMs (Large Language Models)** and **RAG Pipelines**
 - Experience with **transformers**, **BERT**, and **SBERT** for contextual embeddings
-- Hands-on with **Computer Vision** using OpenCV 🎥 and TensorFlow 📦
+- Hands-on with **Computer Vision** using OpenCV 🎥 and Pytorch 📦
 
 ### **Data Science & Engineering**
 - Proficient in **data preprocessing, cleaning, and visualization** 🧹📊
