@@ -76,7 +76,7 @@ Currently working at **KlearNow.AI**, designing intelligent systems that transfo
 - Worked on hyperparameter tuning and NLP model optimization on large-scale review datasets
 - Enhanced model performance through experimentation and evaluation workflows
 
-### 🛰️ Software Engineering Intern — Beans.ai
+### 🛰️ Software Development Intern — Beans.ai
 **Jun 2023 – Aug 2023**
 
 - Built indoor mapping systems using **ArcGIS** and geospatial datasets
