@@ -25,7 +25,7 @@ Currently working at **KlearNow.AI**, designing intelligent systems that transfo
 ## 🛠️ Tech Stack
 
 ### Languages
-`Python` `Java` `C`
+`Python` `Java` `JavaScript`
 
 ### AI / ML
 `LLMs` `SLMs` `Transformers` `PyTorch` `HuggingFace`  
@@ -68,6 +68,20 @@ Currently working at **KlearNow.AI**, designing intelligent systems that transfo
 - Reduced GPU memory usage by **60%**
 - Improved extraction pipelines using prompt engineering and OCR optimization
 - Worked on preprocessing, inference optimization, and LLM evaluation workflows
+
+### 🌍 Machine Learning Intern — Navodita Infotech
+**Apr 2024 – May 2024**
+
+- Improved sentiment analysis accuracy using **GRU**, **BERT**, and Transformer architectures
+- Worked on hyperparameter tuning and NLP model optimization on large-scale review datasets
+- Enhanced model performance through experimentation and evaluation workflows
+
+### 🛰️ Software Engineering Intern — Beans.ai
+**Jun 2023 – Aug 2023**
+
+- Built indoor mapping systems using **ArcGIS** and geospatial datasets
+- Developed a CNN-based malaria detection application with **94% accuracy**
+- Implemented Grad-CAM visualization for explainable AI workflows
 
 ---
 
